@@ -1,0 +1,7 @@
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\bin\Debug\MT_06_Cajan.exe
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\bin\Debug\MT_06_Cajan.pdb
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\obj\x86\Debug\MT_06_Cajan.Form1.resources
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\obj\x86\Debug\MT_06_Cajan.Properties.Resources.resources
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\obj\x86\Debug\MT_06_Cajan.csproj.GenerateResource.Cache
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\obj\x86\Debug\MT_06_Cajan.exe
+C:\Users\RonCajan\Documents\Visual Studio 2010\Projects\MT_Cajan\MT_06_Cajan\MT_06_Cajan\obj\x86\Debug\MT_06_Cajan.pdb
